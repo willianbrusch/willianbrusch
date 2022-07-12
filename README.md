@@ -5,7 +5,7 @@
 
 Me contate pelo linkedin...
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-brusch-237448154/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianbrusch-desenvolvedor/)
 
 <br/>
 
