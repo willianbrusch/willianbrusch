@@ -14,7 +14,7 @@ Me contate pelo linkedin...
 
 <br/>
 
-### Principais tecnologias
+### Principais tecnologias.
 
 <br/>
 
