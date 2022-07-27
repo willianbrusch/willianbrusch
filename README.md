@@ -9,11 +9,6 @@ Me contate pelo linkedin...
 
 <br/>
 
-![willianbrusch Github stats](https://github-readme-stats.vercel.app/api?username=willianbrusch&show_icons=true&theme=react)
-
-
-<br/>
-
 ### Principais tecnologias
 
 <br/>
